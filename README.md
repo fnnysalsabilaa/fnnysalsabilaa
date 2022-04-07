@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 Get to Know Me! </h3>
 
-- 👋 Hi, I’m Fanny Salsabila, you can call me Fanny as well.
-- 👀 I’m interested and most enthusiast to Data Analytics and Data Science fields
-- 🎓 I’m currently studying in Padjadjaran University majoring in Statistics
+- 👋 Hi, I’m Fanny Salsabila, you can call me Fanny as well!
+- 👀 I’m interested and enthusiast to Data Analytics and Data Science fields
+- 🎓 I’m currently studying in Padjadjaran University majoring in Statistics also as a Machine Learning Path Student in Bangkit Academy 2022
 - 💞️ I’m looking to collaborate on data fields project with all of data enthusiasts!
 
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/fanny-salsabila/)!
